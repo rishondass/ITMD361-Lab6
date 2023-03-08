@@ -2,8 +2,6 @@
     background-color: red;
     position: fixed;
     width: 20%;
-    height: 100%;
-    right: 0%;
 }
 
 #sidebar ul{
@@ -19,12 +17,25 @@
     display: block;
     text-decoration: none;
     color: white;
-    padding: 15px 0;
 }
 
-#sidebar a:hover{
-    background-color: black;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #onpage{
